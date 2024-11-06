@@ -380,3 +380,4 @@ This project is licensed under the MIT License.
 <!-- Commit 1: test: Improve test coverage on 2024-11-05 11:35:59 -->
 <!-- Commit 2: chore: Automate release process on 2024-11-05 10:46:56 -->
 <!-- Commit 3: docs: Clarify installation instructions on 2024-11-06 13:15:15 -->
+<!-- Commit 4: fix: Prevent potential race condition on 2024-11-06 09:40:18 -->
