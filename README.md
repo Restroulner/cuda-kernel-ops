@@ -27,3 +27,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This project is licensed under the MIT License.
 
 <!-- Commit 1: chore: Automate release process on 2024-11-06 11:21:45 -->
+<!-- Commit 2: refactor: Extract common logic into helper function on 2024-11-08 12:38:13 -->
