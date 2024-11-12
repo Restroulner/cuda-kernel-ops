@@ -1075,3 +1075,4 @@ This project is licensed under the MIT License.
 <!-- Commit 4: feat: Integrate new data source on 2024-11-08 09:48:05 -->
 <!-- Commit 6: style: Clean up whitespace on 2024-11-11 09:59:14 -->
 <!-- Commit 7: refactor: Extract common logic into helper function on 2024-11-12 09:17:48 -->
+<!-- Commit 8: docs: Add API documentation on 2024-11-12 17:33:45 -->
