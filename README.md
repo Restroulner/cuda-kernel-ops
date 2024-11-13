@@ -1404,3 +1404,4 @@ This project is licensed under the MIT License.
 <!-- Commit 8: perf: Optimize data loading performance on 2024-11-08 16:57:36 -->
 <!-- Commit 9: feat: Implement new evaluation metric on 2024-11-08 16:21:01 -->
 <!-- Commit 11: docs: Add API documentation on 2024-11-12 09:58:08 -->
+<!-- Commit 12: test: Add integration tests on 2024-11-13 14:18:09 -->
