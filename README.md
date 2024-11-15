@@ -31,3 +31,4 @@ This project is licensed under the MIT License.
 <!-- Commit 3: chore: Automate release process on 2024-11-11 16:39:53 -->
 <!-- Commit 4: refactor: Improve code readability and structure on 2024-11-14 12:25:02 -->
 <!-- Commit 6: chore: Configure CI/CD pipeline on 2024-11-15 16:07:03 -->
+<!-- Commit 7: feat: Implement new evaluation metric on 2024-11-15 13:36:19 -->
