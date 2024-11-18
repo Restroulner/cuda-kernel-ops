@@ -385,3 +385,4 @@ This project is licensed under the MIT License.
 <!-- Commit 7: refactor: Improve code readability and structure on 2024-11-11 11:23:38 -->
 <!-- Commit 8: test: Improve test coverage on 2024-11-14 17:07:35 -->
 <!-- Commit 9: feat: Implement new evaluation metric on 2024-11-18 09:18:25 -->
+<!-- Commit 11: style: Format code according to PEP8 on 2024-11-18 15:49:50 -->
