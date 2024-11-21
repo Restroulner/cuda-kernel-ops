@@ -1410,3 +1410,4 @@ This project is licensed under the MIT License.
 <!-- Commit 16: feat: Integrate new data source on 2024-11-15 15:29:12 -->
 <!-- Commit 17: docs: Add API documentation on 2024-11-18 16:39:58 -->
 <!-- Commit 18: chore: Automate release process on 2024-11-20 11:05:19 -->
+<!-- Commit 19: docs: Update README with usage examples on 2024-11-21 09:34:52 -->
