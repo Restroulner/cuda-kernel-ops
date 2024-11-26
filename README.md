@@ -1082,3 +1082,4 @@ This project is licensed under the MIT License.
 <!-- Commit 13: chore: Update dependencies on 2024-11-14 16:19:55 -->
 <!-- Commit 14: test: Add integration tests on 2024-11-20 13:45:49 -->
 <!-- Commit 16: chore: Automate release process on 2024-11-26 11:29:55 -->
+<!-- Commit 17: docs: Clarify installation instructions on 2024-11-26 17:37:38 -->
