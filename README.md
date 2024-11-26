@@ -36,3 +36,4 @@ This project is licensed under the MIT License.
 <!-- Commit 9: perf: Parallelize computation on 2024-11-21 14:16:17 -->
 <!-- Commit 11: feat: Add support for new model architecture on 2024-11-25 09:48:02 -->
 <!-- Commit 12: style: Clean up whitespace on 2024-11-26 13:45:35 -->
+<!-- Commit 13: chore: Upgrade Python version on 2024-11-26 10:32:23 -->
