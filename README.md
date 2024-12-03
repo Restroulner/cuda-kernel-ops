@@ -1417,3 +1417,4 @@ This project is licensed under the MIT License.
 <!-- Commit 24: fix: Correct off-by-one error in indexing on 2024-11-28 09:33:07 -->
 <!-- Commit 26: test: Add unit tests for new module on 2024-12-03 14:37:14 -->
 <!-- Commit 27: test: Add unit tests for new module on 2024-12-03 11:30:10 -->
+<!-- Commit 28: refactor: Extract common logic into helper function on 2024-12-03 15:01:32 -->
