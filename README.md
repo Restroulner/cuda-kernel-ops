@@ -38,3 +38,4 @@ This project is licensed under the MIT License.
 <!-- Commit 12: style: Clean up whitespace on 2024-11-26 13:45:35 -->
 <!-- Commit 13: chore: Upgrade Python version on 2024-11-26 10:32:23 -->
 <!-- Commit 14: feat: Implement new evaluation metric on 2024-11-27 14:03:58 -->
+<!-- Commit 16: test: Add unit tests for new module on 2024-12-04 12:33:50 -->
