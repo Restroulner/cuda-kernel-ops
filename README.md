@@ -397,3 +397,4 @@ This project is licensed under the MIT License.
 <!-- Commit 22: style: Clean up whitespace on 2024-12-02 17:58:54 -->
 <!-- Commit 23: test: Fix broken tests on 2024-12-02 10:59:51 -->
 <!-- Commit 24: docs: Clarify installation instructions on 2024-12-03 17:16:49 -->
+<!-- Commit 26: fix: Correct off-by-one error in indexing on 2024-12-05 16:22:07 -->
