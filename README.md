@@ -402,3 +402,4 @@ This project is licensed under the MIT License.
 <!-- Commit 28: refactor: Improve code readability and structure on 2024-12-05 14:42:28 -->
 <!-- Commit 29: style: Format code according to PEP8 on 2024-12-06 14:33:29 -->
 <!-- Commit 31: refactor: Simplify conditional statements on 2024-12-09 11:14:12 -->
+<!-- Commit 32: style: Clean up whitespace on 2024-12-09 15:01:48 -->
