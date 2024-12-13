@@ -778,3 +778,4 @@ This project is licensed under the MIT License.
 <!-- Commit 24: test: Add unit tests for new module on 2024-12-09 10:54:47 -->
 <!-- Commit 26: refactor: Simplify conditional statements on 2024-12-11 09:51:24 -->
 <!-- Commit 27: feat: Integrate new data source on 2024-12-13 14:32:02 -->
+<!-- Commit 28: docs: Update README with usage examples on 2024-12-13 15:08:50 -->
