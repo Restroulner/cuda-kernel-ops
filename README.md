@@ -781,3 +781,4 @@ This project is licensed under the MIT License.
 <!-- Commit 28: docs: Update README with usage examples on 2024-12-13 15:08:50 -->
 <!-- Commit 29: refactor: Simplify conditional statements on 2024-12-16 13:20:17 -->
 <!-- Commit 31: chore: Automate release process on 2024-12-19 09:15:40 -->
+<!-- Commit 32: fix: Resolve bug in model training loop on 2024-12-23 17:35:25 -->
