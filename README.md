@@ -1432,3 +1432,4 @@ This project is licensed under the MIT License.
 <!-- Commit 43: chore: Upgrade Python version on 2024-12-18 13:45:10 -->
 <!-- Commit 44: feat: Add new feature for data processing on 2024-12-19 13:03:26 -->
 <!-- Commit 46: fix: Correct off-by-one error in indexing on 2024-12-23 11:40:53 -->
+<!-- Commit 47: docs: Clarify installation instructions on 2024-12-24 17:05:04 -->
