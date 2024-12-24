@@ -51,3 +51,4 @@ This project is licensed under the MIT License.
 <!-- Commit 28: feat: Integrate new data source on 2024-12-19 10:52:44 -->
 <!-- Commit 29: refactor: Improve code readability and structure on 2024-12-19 12:21:41 -->
 <!-- Commit 31: refactor: Decouple modules on 2024-12-20 13:27:55 -->
+<!-- Commit 32: fix: Resolve bug in model training loop on 2024-12-24 16:39:30 -->
