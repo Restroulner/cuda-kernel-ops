@@ -783,3 +783,4 @@ This project is licensed under the MIT License.
 <!-- Commit 31: chore: Automate release process on 2024-12-19 09:15:40 -->
 <!-- Commit 32: fix: Resolve bug in model training loop on 2024-12-23 17:35:25 -->
 <!-- Commit 33: style: Clean up whitespace on 2024-12-26 09:51:34 -->
+<!-- Commit 34: test: Add integration tests on 2024-12-26 14:38:40 -->
