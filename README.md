@@ -54,3 +54,4 @@ This project is licensed under the MIT License.
 <!-- Commit 32: fix: Resolve bug in model training loop on 2024-12-24 16:39:30 -->
 <!-- Commit 33: refactor: Improve code readability and structure on 2024-12-26 16:41:31 -->
 <!-- Commit 34: style: Adhere to linter rules on 2024-12-27 10:50:44 -->
+<!-- Commit 36: docs: Generate Sphinx documentation on 2024-12-31 09:49:46 -->
