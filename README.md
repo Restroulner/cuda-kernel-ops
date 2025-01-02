@@ -1104,3 +1104,4 @@ This project is licensed under the MIT License.
 <!-- Commit 41: docs: Update README with usage examples on 2024-12-27 13:14:17 -->
 <!-- Commit 42: fix: Handle edge cases in input validation on 2024-12-31 09:54:44 -->
 <!-- Commit 43: perf: Parallelize computation on 2025-01-02 10:21:19 -->
+<!-- Commit 44: docs: Clarify installation instructions on 2025-01-02 15:07:55 -->
