@@ -421,3 +421,4 @@ This project is licensed under the MIT License.
 <!-- Commit 52: perf: Reduce memory footprint on 2025-01-02 09:53:49 -->
 <!-- Commit 53: test: Improve test coverage on 2025-01-03 10:16:15 -->
 <!-- Commit 54: refactor: Simplify conditional statements on 2025-01-03 15:12:49 -->
+<!-- Commit 56: docs: Add API documentation on 2025-01-03 16:21:41 -->
