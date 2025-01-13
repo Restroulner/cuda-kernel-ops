@@ -58,3 +58,4 @@ This project is licensed under the MIT License.
 <!-- Commit 37: feat: Add new feature for data processing on 2025-01-06 15:55:11 -->
 <!-- Commit 38: feat: Implement new evaluation metric on 2025-01-07 14:50:33 -->
 <!-- Commit 39: perf: Parallelize computation on 2025-01-08 09:59:10 -->
+<!-- Commit 41: refactor: Simplify conditional statements on 2025-01-13 13:08:24 -->
