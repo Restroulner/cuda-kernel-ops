@@ -799,3 +799,4 @@ This project is licensed under the MIT License.
 <!-- Commit 51: fix: Prevent potential race condition on 2025-01-16 13:18:05 -->
 <!-- Commit 52: chore: Upgrade Python version on 2025-01-17 11:01:48 -->
 <!-- Commit 53: chore: Upgrade Python version on 2025-01-17 12:41:01 -->
+<!-- Commit 54: docs: Clarify installation instructions on 2025-01-20 14:10:02 -->
