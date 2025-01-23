@@ -1454,3 +1454,4 @@ This project is licensed under the MIT License.
 <!-- Commit 71: chore: Automate release process on 2025-01-20 14:26:04 -->
 <!-- Commit 72: chore: Update dependencies on 2025-01-20 14:18:41 -->
 <!-- Commit 73: chore: Automate release process on 2025-01-21 11:33:58 -->
+<!-- Commit 74: docs: Add API documentation on 2025-01-23 16:57:29 -->
