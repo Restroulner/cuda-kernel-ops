@@ -1115,3 +1115,4 @@ This project is licensed under the MIT License.
 <!-- Commit 54: chore: Automate release process on 2025-01-15 13:41:57 -->
 <!-- Commit 56: fix: Handle edge cases in input validation on 2025-01-16 12:51:59 -->
 <!-- Commit 57: refactor: Extract common logic into helper function on 2025-01-23 10:11:43 -->
+<!-- Commit 58: docs: Clarify installation instructions on 2025-01-24 13:17:12 -->
