@@ -69,3 +69,4 @@ This project is licensed under the MIT License.
 <!-- Commit 51: style: Clean up whitespace on 2025-01-24 14:16:23 -->
 <!-- Commit 52: feat: Integrate new data source on 2025-01-28 16:39:13 -->
 <!-- Commit 53: refactor: Improve code readability and structure on 2025-01-28 17:11:58 -->
+<!-- Commit 54: docs: Update README with usage examples on 2025-01-29 12:10:18 -->
