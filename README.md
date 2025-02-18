@@ -86,3 +86,4 @@ This project is licensed under the MIT License.
 <!-- Commit 72: test: Improve test coverage on 2025-02-17 12:01:17 -->
 <!-- Commit 73: chore: Upgrade Python version on 2025-02-18 16:13:56 -->
 <!-- Commit 74: refactor: Decouple modules on 2025-02-18 09:01:57 -->
+<!-- Commit 76: refactor: Extract common logic into helper function on 2025-02-18 12:14:22 -->
