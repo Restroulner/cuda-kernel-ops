@@ -89,3 +89,4 @@ This project is licensed under the MIT License.
 <!-- Commit 76: refactor: Extract common logic into helper function on 2025-02-18 12:14:22 -->
 <!-- Commit 77: style: Adhere to linter rules on 2025-02-20 16:39:04 -->
 <!-- Commit 78: docs: Update README with usage examples on 2025-02-21 14:09:58 -->
+<!-- Commit 79: chore: Update dependencies on 2025-02-24 14:05:48 -->
