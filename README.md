@@ -90,3 +90,4 @@ This project is licensed under the MIT License.
 <!-- Commit 77: style: Adhere to linter rules on 2025-02-20 16:39:04 -->
 <!-- Commit 78: docs: Update README with usage examples on 2025-02-21 14:09:58 -->
 <!-- Commit 79: chore: Update dependencies on 2025-02-24 14:05:48 -->
+<!-- Commit 81: fix: Correct off-by-one error in indexing on 2025-02-24 14:46:10 -->
