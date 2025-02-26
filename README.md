@@ -463,3 +463,4 @@ This project is licensed under the MIT License.
 <!-- Commit 104: fix: Correct off-by-one error in indexing on 2025-02-24 13:25:49 -->
 <!-- Commit 106: test: Fix broken tests on 2025-02-24 14:43:52 -->
 <!-- Commit 107: perf: Parallelize computation on 2025-02-24 15:01:56 -->
+<!-- Commit 108: chore: Automate release process on 2025-02-26 09:36:36 -->
