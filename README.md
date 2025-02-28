@@ -466,3 +466,4 @@ This project is licensed under the MIT License.
 <!-- Commit 108: chore: Automate release process on 2025-02-26 09:36:36 -->
 <!-- Commit 109: docs: Update README with usage examples on 2025-02-27 17:54:57 -->
 <!-- Commit 111: refactor: Decouple modules on 2025-02-28 10:06:12 -->
+<!-- Commit 112: refactor: Simplify conditional statements on 2025-02-28 15:13:06 -->
