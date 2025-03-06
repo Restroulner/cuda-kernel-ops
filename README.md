@@ -1143,3 +1143,4 @@ This project is licensed under the MIT License.
 <!-- Commit 89: refactor: Extract common logic into helper function on 2025-03-05 13:20:56 -->
 <!-- Commit 91: perf: Parallelize computation on 2025-03-05 14:06:11 -->
 <!-- Commit 92: chore: Configure CI/CD pipeline on 2025-03-06 11:05:41 -->
+<!-- Commit 93: docs: Update README with usage examples on 2025-03-06 16:41:18 -->
