@@ -471,3 +471,4 @@ This project is licensed under the MIT License.
 <!-- Commit 114: test: Improve test coverage on 2025-03-03 13:05:31 -->
 <!-- Commit 116: docs: Update README with usage examples on 2025-03-04 11:03:30 -->
 <!-- Commit 117: style: Format code according to PEP8 on 2025-03-06 09:41:57 -->
+<!-- Commit 118: refactor: Decouple modules on 2025-03-06 09:06:36 -->
