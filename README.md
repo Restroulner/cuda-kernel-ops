@@ -1148,3 +1148,4 @@ This project is licensed under the MIT License.
 <!-- Commit 96: fix: Resolve bug in model training loop on 2025-03-10 09:43:34 -->
 <!-- Commit 97: docs: Add API documentation on 2025-03-10 12:06:02 -->
 <!-- Commit 98: refactor: Extract common logic into helper function on 2025-03-11 09:40:53 -->
+<!-- Commit 99: docs: Add API documentation on 2025-03-11 09:23:07 -->
