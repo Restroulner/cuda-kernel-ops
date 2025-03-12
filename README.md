@@ -1481,3 +1481,4 @@ This project is licensed under the MIT License.
 <!-- Commit 104: refactor: Simplify conditional statements on 2025-03-10 14:15:07 -->
 <!-- Commit 106: chore: Update dependencies on 2025-03-10 12:44:41 -->
 <!-- Commit 107: refactor: Decouple modules on 2025-03-10 10:49:42 -->
+<!-- Commit 108: docs: Clarify installation instructions on 2025-03-12 09:47:27 -->
