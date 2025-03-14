@@ -481,3 +481,4 @@ This project is licensed under the MIT License.
 <!-- Commit 127: fix: Resolve bug in model training loop on 2025-03-12 10:36:29 -->
 <!-- Commit 128: chore: Upgrade Python version on 2025-03-12 15:02:53 -->
 <!-- Commit 129: style: Clean up whitespace on 2025-03-13 10:41:18 -->
+<!-- Commit 131: docs: Generate Sphinx documentation on 2025-03-14 11:18:18 -->
