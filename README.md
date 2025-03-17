@@ -104,3 +104,4 @@ This project is licensed under the MIT License.
 <!-- Commit 94: fix: Prevent potential race condition on 2025-03-11 17:35:43 -->
 <!-- Commit 96: fix: Correct off-by-one error in indexing on 2025-03-13 15:10:20 -->
 <!-- Commit 97: feat: Integrate new data source on 2025-03-17 11:37:20 -->
+<!-- Commit 98: feat: Add support for new model architecture on 2025-03-17 11:27:22 -->
