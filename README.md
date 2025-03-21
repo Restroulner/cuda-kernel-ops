@@ -1154,3 +1154,4 @@ This project is licensed under the MIT License.
 <!-- Commit 103: perf: Reduce memory footprint on 2025-03-17 12:03:20 -->
 <!-- Commit 104: refactor: Simplify conditional statements on 2025-03-18 12:46:33 -->
 <!-- Commit 106: fix: Resolve bug in model training loop on 2025-03-18 11:43:40 -->
+<!-- Commit 107: refactor: Extract common logic into helper function on 2025-03-21 13:40:54 -->
