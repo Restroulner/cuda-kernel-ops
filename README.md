@@ -107,3 +107,4 @@ This project is licensed under the MIT License.
 <!-- Commit 98: feat: Add support for new model architecture on 2025-03-17 11:27:22 -->
 <!-- Commit 99: test: Improve test coverage on 2025-03-18 14:44:17 -->
 <!-- Commit 101: style: Format code according to PEP8 on 2025-03-18 13:26:58 -->
+<!-- Commit 102: refactor: Extract common logic into helper function on 2025-03-21 17:01:09 -->
