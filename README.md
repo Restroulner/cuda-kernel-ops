@@ -490,3 +490,4 @@ This project is licensed under the MIT License.
 <!-- Commit 138: fix: Prevent potential race condition on 2025-03-21 16:03:28 -->
 <!-- Commit 139: style: Adhere to linter rules on 2025-03-21 09:15:21 -->
 <!-- Commit 141: refactor: Improve code readability and structure on 2025-03-27 16:48:55 -->
+<!-- Commit 142: docs: Generate Sphinx documentation on 2025-03-27 14:14:42 -->
