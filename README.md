@@ -111,3 +111,4 @@ This project is licensed under the MIT License.
 <!-- Commit 103: perf: Parallelize computation on 2025-03-21 15:05:27 -->
 <!-- Commit 104: docs: Update README with usage examples on 2025-03-27 13:11:12 -->
 <!-- Commit 106: fix: Resolve bug in model training loop on 2025-03-28 12:48:02 -->
+<!-- Commit 107: fix: Prevent potential race condition on 2025-03-28 16:57:41 -->
