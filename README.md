@@ -1496,3 +1496,4 @@ This project is licensed under the MIT License.
 <!-- Commit 123: chore: Automate release process on 2025-03-28 17:12:11 -->
 <!-- Commit 124: feat: Integrate new data source on 2025-04-01 14:36:29 -->
 <!-- Commit 126: style: Format code according to PEP8 on 2025-04-02 10:53:12 -->
+<!-- Commit 127: test: Improve test coverage on 2025-04-02 12:48:04 -->
