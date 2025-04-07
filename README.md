@@ -122,3 +122,4 @@ This project is licensed under the MIT License.
 <!-- Commit 117: refactor: Decouple modules on 2025-04-03 11:26:43 -->
 <!-- Commit 118: docs: Add API documentation on 2025-04-03 11:05:26 -->
 <!-- Commit 119: docs: Add API documentation on 2025-04-04 13:02:49 -->
+<!-- Commit 121: test: Improve test coverage on 2025-04-07 09:01:56 -->
