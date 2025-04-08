@@ -501,3 +501,4 @@ This project is licensed under the MIT License.
 <!-- Commit 152: test: Improve test coverage on 2025-04-04 14:11:06 -->
 <!-- Commit 153: feat: Add support for new model architecture on 2025-04-07 17:57:04 -->
 <!-- Commit 154: fix: Correct off-by-one error in indexing on 2025-04-07 17:58:32 -->
+<!-- Commit 156: chore: Automate release process on 2025-04-08 15:52:23 -->
