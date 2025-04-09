@@ -843,3 +843,4 @@ This project is licensed under the MIT License.
 <!-- Commit 106: style: Format code according to PEP8 on 2025-04-02 10:18:15 -->
 <!-- Commit 107: test: Add unit tests for new module on 2025-04-02 14:38:49 -->
 <!-- Commit 108: style: Clean up whitespace on 2025-04-07 16:07:57 -->
+<!-- Commit 109: docs: Clarify installation instructions on 2025-04-09 09:20:09 -->
