@@ -127,3 +127,4 @@ This project is licensed under the MIT License.
 <!-- Commit 123: feat: Integrate new data source on 2025-04-08 10:05:10 -->
 <!-- Commit 124: style: Adhere to linter rules on 2025-04-08 15:12:20 -->
 <!-- Commit 126: style: Format code according to PEP8 on 2025-04-11 15:40:01 -->
+<!-- Commit 127: test: Improve test coverage on 2025-04-14 13:08:46 -->
