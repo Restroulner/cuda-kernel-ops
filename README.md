@@ -1180,3 +1180,4 @@ This project is licensed under the MIT License.
 <!-- Commit 136: feat: Add support for new model architecture on 2025-04-18 15:13:27 -->
 <!-- Commit 137: fix: Correct off-by-one error in indexing on 2025-04-21 11:49:55 -->
 <!-- Commit 138: test: Fix broken tests on 2025-04-21 13:49:37 -->
+<!-- Commit 139: refactor: Simplify conditional statements on 2025-04-21 15:37:54 -->
