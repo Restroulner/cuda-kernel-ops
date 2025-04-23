@@ -1505,3 +1505,4 @@ This project is licensed under the MIT License.
 <!-- Commit 134: chore: Upgrade Python version on 2025-04-11 12:44:38 -->
 <!-- Commit 136: docs: Update README with usage examples on 2025-04-21 11:06:31 -->
 <!-- Commit 137: feat: Integrate new data source on 2025-04-23 12:45:27 -->
+<!-- Commit 138: docs: Clarify installation instructions on 2025-04-23 17:24:21 -->
