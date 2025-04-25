@@ -514,3 +514,4 @@ This project is licensed under the MIT License.
 <!-- Commit 168: refactor: Simplify conditional statements on 2025-04-22 17:52:36 -->
 <!-- Commit 169: style: Format code according to PEP8 on 2025-04-23 10:35:11 -->
 <!-- Commit 171: chore: Update dependencies on 2025-04-25 13:48:50 -->
+<!-- Commit 172: docs: Update README with usage examples on 2025-04-25 13:03:49 -->
