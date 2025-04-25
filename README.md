@@ -851,3 +851,4 @@ This project is licensed under the MIT License.
 <!-- Commit 116: docs: Add API documentation on 2025-04-16 13:28:03 -->
 <!-- Commit 117: docs: Generate Sphinx documentation on 2025-04-22 17:59:45 -->
 <!-- Commit 118: feat: Add support for new model architecture on 2025-04-24 15:54:31 -->
+<!-- Commit 119: style: Format code according to PEP8 on 2025-04-25 15:39:51 -->
