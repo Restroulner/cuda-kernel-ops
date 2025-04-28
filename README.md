@@ -137,3 +137,4 @@ This project is licensed under the MIT License.
 <!-- Commit 136: test: Add unit tests for new module on 2025-04-23 16:26:49 -->
 <!-- Commit 137: docs: Generate Sphinx documentation on 2025-04-25 12:19:44 -->
 <!-- Commit 138: feat: Implement new evaluation metric on 2025-04-28 14:51:36 -->
+<!-- Commit 139: fix: Correct off-by-one error in indexing on 2025-04-28 12:16:13 -->
