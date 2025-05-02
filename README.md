@@ -520,3 +520,4 @@ This project is licensed under the MIT License.
 <!-- Commit 176: fix: Resolve bug in model training loop on 2025-05-01 10:58:05 -->
 <!-- Commit 177: docs: Generate Sphinx documentation on 2025-05-01 09:54:28 -->
 <!-- Commit 178: docs: Clarify installation instructions on 2025-05-02 14:58:26 -->
+<!-- Commit 179: refactor: Decouple modules on 2025-05-02 17:07:12 -->
