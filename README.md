@@ -857,3 +857,4 @@ This project is licensed under the MIT License.
 <!-- Commit 123: docs: Update README with usage examples on 2025-04-28 11:01:15 -->
 <!-- Commit 124: perf: Parallelize computation on 2025-04-29 10:03:30 -->
 <!-- Commit 126: feat: Implement new evaluation metric on 2025-05-01 15:07:46 -->
+<!-- Commit 127: docs: Clarify installation instructions on 2025-05-06 14:00:01 -->
