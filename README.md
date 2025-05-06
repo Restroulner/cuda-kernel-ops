@@ -858,3 +858,4 @@ This project is licensed under the MIT License.
 <!-- Commit 124: perf: Parallelize computation on 2025-04-29 10:03:30 -->
 <!-- Commit 126: feat: Implement new evaluation metric on 2025-05-01 15:07:46 -->
 <!-- Commit 127: docs: Clarify installation instructions on 2025-05-06 14:00:01 -->
+<!-- Commit 128: perf: Reduce memory footprint on 2025-05-06 13:29:33 -->
