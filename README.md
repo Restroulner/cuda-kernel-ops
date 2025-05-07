@@ -859,3 +859,4 @@ This project is licensed under the MIT License.
 <!-- Commit 126: feat: Implement new evaluation metric on 2025-05-01 15:07:46 -->
 <!-- Commit 127: docs: Clarify installation instructions on 2025-05-06 14:00:01 -->
 <!-- Commit 128: perf: Reduce memory footprint on 2025-05-06 13:29:33 -->
+<!-- Commit 129: refactor: Simplify conditional statements on 2025-05-07 09:23:16 -->
