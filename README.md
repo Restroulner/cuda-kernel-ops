@@ -143,3 +143,4 @@ This project is licensed under the MIT License.
 <!-- Commit 143: test: Add unit tests for new module on 2025-05-06 09:52:01 -->
 <!-- Commit 144: style: Format code according to PEP8 on 2025-05-06 10:08:38 -->
 <!-- Commit 146: perf: Optimize data loading performance on 2025-05-08 15:57:57 -->
+<!-- Commit 147: refactor: Simplify conditional statements on 2025-05-09 12:56:06 -->
