@@ -524,3 +524,4 @@ This project is licensed under the MIT License.
 <!-- Commit 181: chore: Configure CI/CD pipeline on 2025-05-07 17:02:17 -->
 <!-- Commit 182: perf: Optimize data loading performance on 2025-05-07 16:38:51 -->
 <!-- Commit 183: feat: Add support for new model architecture on 2025-05-07 10:20:27 -->
+<!-- Commit 184: docs: Clarify installation instructions on 2025-05-09 16:52:54 -->
