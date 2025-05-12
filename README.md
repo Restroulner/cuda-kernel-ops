@@ -146,3 +146,4 @@ This project is licensed under the MIT License.
 <!-- Commit 147: refactor: Simplify conditional statements on 2025-05-09 12:56:06 -->
 <!-- Commit 148: fix: Prevent potential race condition on 2025-05-09 09:38:02 -->
 <!-- Commit 149: test: Fix broken tests on 2025-05-12 10:47:02 -->
+<!-- Commit 151: test: Improve test coverage on 2025-05-12 10:43:25 -->
