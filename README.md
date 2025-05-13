@@ -864,3 +864,4 @@ This project is licensed under the MIT License.
 <!-- Commit 132: fix: Prevent potential race condition on 2025-05-07 09:44:59 -->
 <!-- Commit 133: refactor: Improve code readability and structure on 2025-05-09 11:01:06 -->
 <!-- Commit 134: docs: Add API documentation on 2025-05-12 17:14:33 -->
+<!-- Commit 136: refactor: Simplify conditional statements on 2025-05-13 15:15:36 -->
