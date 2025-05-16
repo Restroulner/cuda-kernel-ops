@@ -149,3 +149,4 @@ This project is licensed under the MIT License.
 <!-- Commit 151: test: Improve test coverage on 2025-05-12 10:43:25 -->
 <!-- Commit 152: style: Format code according to PEP8 on 2025-05-13 13:25:15 -->
 <!-- Commit 153: docs: Clarify installation instructions on 2025-05-14 15:07:11 -->
+<!-- Commit 154: test: Fix broken tests on 2025-05-16 13:56:54 -->
