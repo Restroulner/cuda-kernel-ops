@@ -1197,3 +1197,4 @@ This project is licensed under the MIT License.
 <!-- Commit 157: feat: Integrate new data source on 2025-05-19 17:39:39 -->
 <!-- Commit 158: refactor: Extract common logic into helper function on 2025-05-20 11:18:20 -->
 <!-- Commit 159: fix: Resolve bug in model training loop on 2025-05-20 09:00:36 -->
+<!-- Commit 161: docs: Add API documentation on 2025-05-21 10:22:29 -->
