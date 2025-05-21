@@ -869,3 +869,4 @@ This project is licensed under the MIT License.
 <!-- Commit 138: chore: Upgrade Python version on 2025-05-15 10:39:31 -->
 <!-- Commit 139: feat: Implement new evaluation metric on 2025-05-16 11:58:37 -->
 <!-- Commit 141: chore: Configure CI/CD pipeline on 2025-05-20 14:57:40 -->
+<!-- Commit 142: docs: Update README with usage examples on 2025-05-21 11:23:10 -->
