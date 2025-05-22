@@ -871,3 +871,4 @@ This project is licensed under the MIT License.
 <!-- Commit 141: chore: Configure CI/CD pipeline on 2025-05-20 14:57:40 -->
 <!-- Commit 142: docs: Update README with usage examples on 2025-05-21 11:23:10 -->
 <!-- Commit 143: refactor: Decouple modules on 2025-05-21 09:38:42 -->
+<!-- Commit 144: test: Improve test coverage on 2025-05-22 16:33:23 -->
