@@ -533,3 +533,4 @@ This project is licensed under the MIT License.
 <!-- Commit 192: style: Adhere to linter rules on 2025-05-19 11:59:56 -->
 <!-- Commit 193: refactor: Extract common logic into helper function on 2025-05-20 10:26:44 -->
 <!-- Commit 194: fix: Handle edge cases in input validation on 2025-05-21 17:34:59 -->
+<!-- Commit 196: refactor: Simplify conditional statements on 2025-05-22 10:46:03 -->
