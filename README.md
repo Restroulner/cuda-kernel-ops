@@ -873,3 +873,4 @@ This project is licensed under the MIT License.
 <!-- Commit 143: refactor: Decouple modules on 2025-05-21 09:38:42 -->
 <!-- Commit 144: test: Improve test coverage on 2025-05-22 16:33:23 -->
 <!-- Commit 146: test: Improve test coverage on 2025-05-23 13:24:20 -->
+<!-- Commit 147: docs: Update README with usage examples on 2025-05-23 12:03:14 -->
