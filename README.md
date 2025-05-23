@@ -157,3 +157,4 @@ This project is licensed under the MIT License.
 <!-- Commit 161: docs: Clarify installation instructions on 2025-05-21 12:35:25 -->
 <!-- Commit 162: fix: Resolve bug in model training loop on 2025-05-23 10:25:30 -->
 <!-- Commit 163: docs: Generate Sphinx documentation on 2025-05-23 12:45:37 -->
+<!-- Commit 164: perf: Parallelize computation on 2025-05-23 17:24:55 -->
