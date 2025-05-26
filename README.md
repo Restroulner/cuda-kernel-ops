@@ -534,3 +534,4 @@ This project is licensed under the MIT License.
 <!-- Commit 193: refactor: Extract common logic into helper function on 2025-05-20 10:26:44 -->
 <!-- Commit 194: fix: Handle edge cases in input validation on 2025-05-21 17:34:59 -->
 <!-- Commit 196: refactor: Simplify conditional statements on 2025-05-22 10:46:03 -->
+<!-- Commit 197: fix: Resolve bug in model training loop on 2025-05-26 09:16:41 -->
