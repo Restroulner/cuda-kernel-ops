@@ -875,3 +875,4 @@ This project is licensed under the MIT License.
 <!-- Commit 146: test: Improve test coverage on 2025-05-23 13:24:20 -->
 <!-- Commit 147: docs: Update README with usage examples on 2025-05-23 12:03:14 -->
 <!-- Commit 148: perf: Parallelize computation on 2025-05-26 10:35:30 -->
+<!-- Commit 149: refactor: Simplify conditional statements on 2025-05-27 14:46:11 -->
