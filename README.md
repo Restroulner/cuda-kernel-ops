@@ -535,3 +535,4 @@ This project is licensed under the MIT License.
 <!-- Commit 194: fix: Handle edge cases in input validation on 2025-05-21 17:34:59 -->
 <!-- Commit 196: refactor: Simplify conditional statements on 2025-05-22 10:46:03 -->
 <!-- Commit 197: fix: Resolve bug in model training loop on 2025-05-26 09:16:41 -->
+<!-- Commit 198: test: Add integration tests on 2025-05-27 14:39:16 -->
