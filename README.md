@@ -1525,3 +1525,4 @@ This project is licensed under the MIT License.
 <!-- Commit 159: test: Fix broken tests on 2025-05-20 10:17:09 -->
 <!-- Commit 161: test: Improve test coverage on 2025-05-22 10:27:21 -->
 <!-- Commit 162: test: Add integration tests on 2025-05-23 17:39:31 -->
+<!-- Commit 163: refactor: Extract common logic into helper function on 2025-05-27 13:51:46 -->
