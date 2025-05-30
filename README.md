@@ -878,3 +878,4 @@ This project is licensed under the MIT License.
 <!-- Commit 149: refactor: Simplify conditional statements on 2025-05-27 14:46:11 -->
 <!-- Commit 151: refactor: Decouple modules on 2025-05-28 09:40:36 -->
 <!-- Commit 152: perf: Optimize data loading performance on 2025-05-29 15:25:32 -->
+<!-- Commit 153: docs: Update README with usage examples on 2025-05-30 15:11:44 -->
