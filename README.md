@@ -161,3 +161,4 @@ This project is licensed under the MIT License.
 <!-- Commit 166: test: Improve test coverage on 2025-05-27 12:57:46 -->
 <!-- Commit 167: perf: Reduce memory footprint on 2025-05-28 09:01:55 -->
 <!-- Commit 168: docs: Update README with usage examples on 2025-05-29 10:26:58 -->
+<!-- Commit 169: docs: Add API documentation on 2025-06-03 12:45:00 -->
