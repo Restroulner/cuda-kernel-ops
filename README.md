@@ -880,3 +880,4 @@ This project is licensed under the MIT License.
 <!-- Commit 152: perf: Optimize data loading performance on 2025-05-29 15:25:32 -->
 <!-- Commit 153: docs: Update README with usage examples on 2025-05-30 15:11:44 -->
 <!-- Commit 154: docs: Add API documentation on 2025-05-30 11:52:42 -->
+<!-- Commit 156: docs: Update README with usage examples on 2025-06-04 15:11:49 -->
