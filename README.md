@@ -163,3 +163,4 @@ This project is licensed under the MIT License.
 <!-- Commit 168: docs: Update README with usage examples on 2025-05-29 10:26:58 -->
 <!-- Commit 169: docs: Add API documentation on 2025-06-03 12:45:00 -->
 <!-- Commit 171: chore: Automate release process on 2025-06-05 12:27:33 -->
+<!-- Commit 172: docs: Clarify installation instructions on 2025-06-06 09:26:23 -->
