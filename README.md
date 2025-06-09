@@ -882,3 +882,4 @@ This project is licensed under the MIT License.
 <!-- Commit 154: docs: Add API documentation on 2025-05-30 11:52:42 -->
 <!-- Commit 156: docs: Update README with usage examples on 2025-06-04 15:11:49 -->
 <!-- Commit 157: chore: Update dependencies on 2025-06-06 11:06:57 -->
+<!-- Commit 158: refactor: Extract common logic into helper function on 2025-06-09 14:54:58 -->
