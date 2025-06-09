@@ -1535,3 +1535,4 @@ This project is licensed under the MIT License.
 <!-- Commit 172: test: Add integration tests on 2025-06-04 14:30:16 -->
 <!-- Commit 173: test: Fix broken tests on 2025-06-05 17:19:28 -->
 <!-- Commit 174: fix: Handle edge cases in input validation on 2025-06-06 13:19:07 -->
+<!-- Commit 176: docs: Clarify installation instructions on 2025-06-09 09:44:25 -->
