@@ -1539,3 +1539,4 @@ This project is licensed under the MIT License.
 <!-- Commit 177: feat: Implement new evaluation metric on 2025-06-10 13:07:49 -->
 <!-- Commit 178: chore: Configure CI/CD pipeline on 2025-06-11 11:06:40 -->
 <!-- Commit 179: test: Fix broken tests on 2025-06-11 17:54:32 -->
+<!-- Commit 181: chore: Automate release process on 2025-06-16 11:47:10 -->
