@@ -1213,3 +1213,4 @@ This project is licensed under the MIT License.
 <!-- Commit 177: feat: Add support for new model architecture on 2025-06-11 09:02:27 -->
 <!-- Commit 178: test: Fix broken tests on 2025-06-12 09:57:08 -->
 <!-- Commit 179: fix: Prevent potential race condition on 2025-06-18 11:48:56 -->
+<!-- Commit 181: refactor: Extract common logic into helper function on 2025-06-19 16:02:47 -->
