@@ -1219,3 +1219,4 @@ This project is licensed under the MIT License.
 <!-- Commit 184: perf: Optimize data loading performance on 2025-06-23 13:16:28 -->
 <!-- Commit 186: docs: Update README with usage examples on 2025-06-26 10:10:57 -->
 <!-- Commit 187: test: Improve test coverage on 2025-06-26 12:14:31 -->
+<!-- Commit 188: fix: Resolve bug in model training loop on 2025-06-26 13:49:49 -->
