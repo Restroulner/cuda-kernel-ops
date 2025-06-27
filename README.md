@@ -178,3 +178,4 @@ This project is licensed under the MIT License.
 <!-- Commit 187: test: Fix broken tests on 2025-06-23 15:53:02 -->
 <!-- Commit 188: chore: Automate release process on 2025-06-25 12:32:26 -->
 <!-- Commit 189: feat: Integrate new data source on 2025-06-25 09:18:45 -->
+<!-- Commit 191: refactor: Extract common logic into helper function on 2025-06-27 16:36:03 -->
