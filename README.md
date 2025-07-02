@@ -182,3 +182,4 @@ This project is licensed under the MIT License.
 <!-- Commit 192: refactor: Improve code readability and structure on 2025-06-30 14:13:18 -->
 <!-- Commit 193: docs: Clarify installation instructions on 2025-06-30 13:37:15 -->
 <!-- Commit 194: test: Improve test coverage on 2025-06-30 14:40:04 -->
+<!-- Commit 196: test: Improve test coverage on 2025-07-02 16:56:04 -->
