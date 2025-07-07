@@ -184,3 +184,4 @@ This project is licensed under the MIT License.
 <!-- Commit 194: test: Improve test coverage on 2025-06-30 14:40:04 -->
 <!-- Commit 196: test: Improve test coverage on 2025-07-02 16:56:04 -->
 <!-- Commit 197: fix: Correct off-by-one error in indexing on 2025-07-07 16:40:40 -->
+<!-- Commit 198: refactor: Extract common logic into helper function on 2025-07-07 16:21:55 -->
