@@ -1553,3 +1553,4 @@ This project is licensed under the MIT License.
 <!-- Commit 194: refactor: Decouple modules on 2025-07-07 15:43:53 -->
 <!-- Commit 196: chore: Update dependencies on 2025-07-08 09:04:38 -->
 <!-- Commit 197: chore: Upgrade Python version on 2025-07-09 09:50:14 -->
+<!-- Commit 198: test: Add integration tests on 2025-07-09 13:09:16 -->
