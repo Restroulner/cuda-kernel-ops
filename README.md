@@ -187,3 +187,4 @@ This project is licensed under the MIT License.
 <!-- Commit 198: refactor: Extract common logic into helper function on 2025-07-07 16:21:55 -->
 <!-- Commit 199: feat: Implement new evaluation metric on 2025-07-09 11:37:01 -->
 <!-- Commit 201: docs: Generate Sphinx documentation on 2025-07-09 13:15:21 -->
+<!-- Commit 202: fix: Resolve bug in model training loop on 2025-07-11 13:51:19 -->
