@@ -902,3 +902,4 @@ This project is licensed under the MIT License.
 <!-- Commit 179: perf: Reduce memory footprint on 2025-07-11 11:24:33 -->
 <!-- Commit 181: perf: Reduce memory footprint on 2025-07-11 17:42:53 -->
 <!-- Commit 182: chore: Configure CI/CD pipeline on 2025-07-11 09:16:07 -->
+<!-- Commit 183: docs: Clarify installation instructions on 2025-07-14 12:58:51 -->
