@@ -191,3 +191,4 @@ This project is licensed under the MIT License.
 <!-- Commit 203: fix: Correct off-by-one error in indexing on 2025-07-11 14:03:10 -->
 <!-- Commit 204: docs: Add API documentation on 2025-07-15 10:50:39 -->
 <!-- Commit 206: refactor: Extract common logic into helper function on 2025-07-16 13:37:20 -->
+<!-- Commit 207: test: Fix broken tests on 2025-07-17 12:47:08 -->
