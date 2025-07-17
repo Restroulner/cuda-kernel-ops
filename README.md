@@ -907,3 +907,4 @@ This project is licensed under the MIT License.
 <!-- Commit 186: style: Format code according to PEP8 on 2025-07-16 13:24:19 -->
 <!-- Commit 187: perf: Reduce memory footprint on 2025-07-16 10:13:41 -->
 <!-- Commit 188: chore: Automate release process on 2025-07-17 14:44:38 -->
+<!-- Commit 189: refactor: Extract common logic into helper function on 2025-07-17 16:43:23 -->
