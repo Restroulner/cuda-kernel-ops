@@ -193,3 +193,4 @@ This project is licensed under the MIT License.
 <!-- Commit 206: refactor: Extract common logic into helper function on 2025-07-16 13:37:20 -->
 <!-- Commit 207: test: Fix broken tests on 2025-07-17 12:47:08 -->
 <!-- Commit 208: perf: Reduce memory footprint on 2025-07-17 11:01:12 -->
+<!-- Commit 209: test: Add integration tests on 2025-07-21 15:11:46 -->
