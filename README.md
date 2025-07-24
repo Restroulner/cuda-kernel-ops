@@ -568,3 +568,4 @@ This project is licensed under the MIT License.
 <!-- Commit 236: chore: Automate release process on 2025-07-23 16:59:50 -->
 <!-- Commit 237: style: Adhere to linter rules on 2025-07-24 11:48:53 -->
 <!-- Commit 238: feat: Add new feature for data processing on 2025-07-24 10:29:28 -->
+<!-- Commit 239: refactor: Extract common logic into helper function on 2025-07-24 15:25:37 -->
