@@ -197,3 +197,4 @@ This project is licensed under the MIT License.
 <!-- Commit 211: refactor: Decouple modules on 2025-07-22 10:15:47 -->
 <!-- Commit 212: test: Add unit tests for new module on 2025-07-22 16:20:47 -->
 <!-- Commit 213: style: Clean up whitespace on 2025-07-24 10:14:52 -->
+<!-- Commit 214: docs: Clarify installation instructions on 2025-07-24 10:03:07 -->
