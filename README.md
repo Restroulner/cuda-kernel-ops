@@ -911,3 +911,4 @@ This project is licensed under the MIT License.
 <!-- Commit 191: style: Format code according to PEP8 on 2025-07-23 09:54:25 -->
 <!-- Commit 192: test: Add unit tests for new module on 2025-07-23 17:09:55 -->
 <!-- Commit 193: fix: Resolve bug in model training loop on 2025-07-24 15:39:56 -->
+<!-- Commit 194: docs: Update README with usage examples on 2025-07-25 15:07:04 -->
