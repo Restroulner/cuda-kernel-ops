@@ -914,3 +914,4 @@ This project is licensed under the MIT License.
 <!-- Commit 194: docs: Update README with usage examples on 2025-07-25 15:07:04 -->
 <!-- Commit 196: fix: Resolve bug in model training loop on 2025-07-25 09:10:01 -->
 <!-- Commit 197: test: Fix broken tests on 2025-07-25 16:35:22 -->
+<!-- Commit 198: fix: Prevent potential race condition on 2025-07-29 16:39:47 -->
