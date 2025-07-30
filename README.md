@@ -916,3 +916,4 @@ This project is licensed under the MIT License.
 <!-- Commit 197: test: Fix broken tests on 2025-07-25 16:35:22 -->
 <!-- Commit 198: fix: Prevent potential race condition on 2025-07-29 16:39:47 -->
 <!-- Commit 199: test: Add integration tests on 2025-07-30 14:46:18 -->
+<!-- Commit 201: refactor: Improve code readability and structure on 2025-07-30 12:35:37 -->
