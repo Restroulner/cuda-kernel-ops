@@ -922,3 +922,4 @@ This project is licensed under the MIT License.
 <!-- Commit 204: test: Add integration tests on 2025-07-31 12:18:57 -->
 <!-- Commit 206: chore: Configure CI/CD pipeline on 2025-08-01 17:14:29 -->
 <!-- Commit 207: refactor: Decouple modules on 2025-08-04 13:43:12 -->
+<!-- Commit 208: refactor: Improve code readability and structure on 2025-08-04 11:07:42 -->
