@@ -207,3 +207,4 @@ This project is licensed under the MIT License.
 <!-- Commit 223: feat: Add new feature for data processing on 2025-07-31 11:14:01 -->
 <!-- Commit 224: fix: Prevent potential race condition on 2025-08-01 10:36:50 -->
 <!-- Commit 226: chore: Upgrade Python version on 2025-08-04 10:22:16 -->
+<!-- Commit 227: docs: Add API documentation on 2025-08-05 09:10:40 -->
