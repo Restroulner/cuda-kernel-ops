@@ -579,3 +579,4 @@ This project is licensed under the MIT License.
 <!-- Commit 249: style: Adhere to linter rules on 2025-08-05 12:29:50 -->
 <!-- Commit 251: chore: Upgrade Python version on 2025-08-05 15:11:04 -->
 <!-- Commit 252: chore: Update dependencies on 2025-08-06 17:11:02 -->
+<!-- Commit 253: docs: Add API documentation on 2025-08-06 10:06:06 -->
