@@ -211,3 +211,4 @@ This project is licensed under the MIT License.
 <!-- Commit 228: perf: Parallelize computation on 2025-08-06 10:29:23 -->
 <!-- Commit 229: test: Add integration tests on 2025-08-07 12:42:46 -->
 <!-- Commit 231: fix: Prevent potential race condition on 2025-08-08 10:13:43 -->
+<!-- Commit 232: fix: Correct off-by-one error in indexing on 2025-08-11 15:33:04 -->
