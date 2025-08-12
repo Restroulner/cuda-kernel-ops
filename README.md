@@ -1242,3 +1242,4 @@ This project is licensed under the MIT License.
 <!-- Commit 213: feat: Implement new evaluation metric on 2025-08-06 15:02:24 -->
 <!-- Commit 214: style: Clean up whitespace on 2025-08-06 17:51:45 -->
 <!-- Commit 216: refactor: Extract common logic into helper function on 2025-08-12 09:00:14 -->
+<!-- Commit 217: fix: Correct off-by-one error in indexing on 2025-08-12 10:58:02 -->
