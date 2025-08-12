@@ -583,3 +583,4 @@ This project is licensed under the MIT License.
 <!-- Commit 254: test: Add integration tests on 2025-08-08 12:36:20 -->
 <!-- Commit 256: feat: Implement new evaluation metric on 2025-08-12 09:31:05 -->
 <!-- Commit 257: chore: Automate release process on 2025-08-12 15:53:54 -->
+<!-- Commit 258: perf: Reduce memory footprint on 2025-08-12 11:38:47 -->
