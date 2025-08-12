@@ -581,3 +581,4 @@ This project is licensed under the MIT License.
 <!-- Commit 252: chore: Update dependencies on 2025-08-06 17:11:02 -->
 <!-- Commit 253: docs: Add API documentation on 2025-08-06 10:06:06 -->
 <!-- Commit 254: test: Add integration tests on 2025-08-08 12:36:20 -->
+<!-- Commit 256: feat: Implement new evaluation metric on 2025-08-12 09:31:05 -->
