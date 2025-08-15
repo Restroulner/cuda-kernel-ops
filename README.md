@@ -930,3 +930,4 @@ This project is licensed under the MIT License.
 <!-- Commit 214: fix: Handle edge cases in input validation on 2025-08-13 11:45:17 -->
 <!-- Commit 216: perf: Reduce memory footprint on 2025-08-14 16:06:01 -->
 <!-- Commit 217: feat: Add support for new model architecture on 2025-08-14 11:22:49 -->
+<!-- Commit 218: refactor: Improve code readability and structure on 2025-08-15 12:36:18 -->
