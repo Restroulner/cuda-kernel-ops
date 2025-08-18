@@ -217,3 +217,4 @@ This project is licensed under the MIT License.
 <!-- Commit 236: perf: Parallelize computation on 2025-08-14 16:11:48 -->
 <!-- Commit 237: perf: Reduce memory footprint on 2025-08-14 14:21:54 -->
 <!-- Commit 238: test: Add unit tests for new module on 2025-08-14 10:38:06 -->
+<!-- Commit 239: fix: Correct off-by-one error in indexing on 2025-08-18 14:53:28 -->
