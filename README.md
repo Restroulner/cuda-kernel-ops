@@ -1249,3 +1249,4 @@ This project is licensed under the MIT License.
 <!-- Commit 222: fix: Prevent potential race condition on 2025-08-21 09:10:29 -->
 <!-- Commit 223: perf: Parallelize computation on 2025-08-21 10:54:42 -->
 <!-- Commit 224: feat: Add new feature for data processing on 2025-08-21 14:32:19 -->
+<!-- Commit 226: docs: Update README with usage examples on 2025-08-22 13:11:04 -->
