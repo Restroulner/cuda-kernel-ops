@@ -587,3 +587,4 @@ This project is licensed under the MIT License.
 <!-- Commit 259: style: Clean up whitespace on 2025-08-13 14:19:50 -->
 <!-- Commit 261: style: Adhere to linter rules on 2025-08-20 10:22:34 -->
 <!-- Commit 262: style: Adhere to linter rules on 2025-08-20 16:32:03 -->
+<!-- Commit 263: docs: Add API documentation on 2025-08-22 12:39:15 -->
