@@ -936,3 +936,4 @@ This project is licensed under the MIT License.
 <!-- Commit 222: perf: Reduce memory footprint on 2025-08-19 15:25:24 -->
 <!-- Commit 223: refactor: Simplify conditional statements on 2025-08-20 12:08:28 -->
 <!-- Commit 224: style: Clean up whitespace on 2025-08-21 13:09:50 -->
+<!-- Commit 226: refactor: Extract common logic into helper function on 2025-08-25 10:16:04 -->
