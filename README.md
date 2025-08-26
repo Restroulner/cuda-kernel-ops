@@ -589,3 +589,4 @@ This project is licensed under the MIT License.
 <!-- Commit 262: style: Adhere to linter rules on 2025-08-20 16:32:03 -->
 <!-- Commit 263: docs: Add API documentation on 2025-08-22 12:39:15 -->
 <!-- Commit 264: refactor: Improve code readability and structure on 2025-08-22 14:23:31 -->
+<!-- Commit 266: fix: Correct off-by-one error in indexing on 2025-08-26 16:27:48 -->
