@@ -939,3 +939,4 @@ This project is licensed under the MIT License.
 <!-- Commit 226: refactor: Extract common logic into helper function on 2025-08-25 10:16:04 -->
 <!-- Commit 227: feat: Add support for new model architecture on 2025-08-27 13:15:42 -->
 <!-- Commit 228: chore: Upgrade Python version on 2025-08-28 14:37:01 -->
+<!-- Commit 229: fix: Correct off-by-one error in indexing on 2025-08-28 14:52:17 -->
