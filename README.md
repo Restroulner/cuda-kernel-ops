@@ -1590,3 +1590,4 @@ This project is licensed under the MIT License.
 <!-- Commit 241: refactor: Extract common logic into helper function on 2025-09-01 15:25:57 -->
 <!-- Commit 242: feat: Implement new evaluation metric on 2025-09-01 11:11:55 -->
 <!-- Commit 243: perf: Optimize data loading performance on 2025-09-02 10:54:56 -->
+<!-- Commit 244: style: Format code according to PEP8 on 2025-09-02 10:41:28 -->
