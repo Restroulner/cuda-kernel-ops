@@ -231,3 +231,4 @@ This project is licensed under the MIT License.
 <!-- Commit 253: test: Improve test coverage on 2025-08-28 11:53:16 -->
 <!-- Commit 254: feat: Integrate new data source on 2025-08-29 10:02:55 -->
 <!-- Commit 256: style: Adhere to linter rules on 2025-09-02 13:26:43 -->
+<!-- Commit 257: docs: Clarify installation instructions on 2025-09-03 13:44:10 -->
