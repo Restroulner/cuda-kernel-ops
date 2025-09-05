@@ -941,3 +941,4 @@ This project is licensed under the MIT License.
 <!-- Commit 228: chore: Upgrade Python version on 2025-08-28 14:37:01 -->
 <!-- Commit 229: fix: Correct off-by-one error in indexing on 2025-08-28 14:52:17 -->
 <!-- Commit 231: perf: Parallelize computation on 2025-09-05 16:58:45 -->
+<!-- Commit 232: refactor: Extract common logic into helper function on 2025-09-05 15:04:13 -->
