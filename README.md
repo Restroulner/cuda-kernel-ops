@@ -238,3 +238,4 @@ This project is licensed under the MIT License.
 <!-- Commit 262: fix: Correct off-by-one error in indexing on 2025-09-05 10:43:09 -->
 <!-- Commit 263: style: Format code according to PEP8 on 2025-09-05 15:16:32 -->
 <!-- Commit 264: test: Improve test coverage on 2025-09-05 13:16:59 -->
+<!-- Commit 266: docs: Generate Sphinx documentation on 2025-09-09 13:46:19 -->
