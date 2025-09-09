@@ -1261,3 +1261,4 @@ This project is licensed under the MIT License.
 <!-- Commit 237: test: Fix broken tests on 2025-09-04 14:05:38 -->
 <!-- Commit 238: style: Format code according to PEP8 on 2025-09-05 14:16:35 -->
 <!-- Commit 239: docs: Clarify installation instructions on 2025-09-05 12:26:17 -->
+<!-- Commit 241: docs: Add API documentation on 2025-09-09 10:39:47 -->
