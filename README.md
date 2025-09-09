@@ -604,3 +604,4 @@ This project is licensed under the MIT License.
 <!-- Commit 281: refactor: Decouple modules on 2025-09-05 14:32:08 -->
 <!-- Commit 282: chore: Upgrade Python version on 2025-09-05 10:56:55 -->
 <!-- Commit 283: docs: Update README with usage examples on 2025-09-08 13:43:01 -->
+<!-- Commit 284: docs: Clarify installation instructions on 2025-09-09 15:10:16 -->
