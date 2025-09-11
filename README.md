@@ -1263,3 +1263,4 @@ This project is licensed under the MIT License.
 <!-- Commit 239: docs: Clarify installation instructions on 2025-09-05 12:26:17 -->
 <!-- Commit 241: docs: Add API documentation on 2025-09-09 10:39:47 -->
 <!-- Commit 242: feat: Add support for new model architecture on 2025-09-09 10:51:35 -->
+<!-- Commit 243: refactor: Simplify conditional statements on 2025-09-11 09:47:52 -->
