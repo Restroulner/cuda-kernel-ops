@@ -1596,3 +1596,4 @@ This project is licensed under the MIT License.
 <!-- Commit 248: perf: Reduce memory footprint on 2025-09-05 12:31:59 -->
 <!-- Commit 249: chore: Automate release process on 2025-09-08 11:12:03 -->
 <!-- Commit 251: chore: Update dependencies on 2025-09-10 10:49:47 -->
+<!-- Commit 252: feat: Add support for new model architecture on 2025-09-11 12:07:39 -->
