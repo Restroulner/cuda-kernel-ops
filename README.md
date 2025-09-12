@@ -1598,3 +1598,4 @@ This project is licensed under the MIT License.
 <!-- Commit 251: chore: Update dependencies on 2025-09-10 10:49:47 -->
 <!-- Commit 252: feat: Add support for new model architecture on 2025-09-11 12:07:39 -->
 <!-- Commit 253: chore: Update dependencies on 2025-09-12 14:43:05 -->
+<!-- Commit 254: fix: Prevent potential race condition on 2025-09-12 17:35:55 -->
