@@ -608,3 +608,4 @@ This project is licensed under the MIT License.
 <!-- Commit 286: feat: Add support for new model architecture on 2025-09-10 09:15:40 -->
 <!-- Commit 287: perf: Parallelize computation on 2025-09-11 16:53:26 -->
 <!-- Commit 288: docs: Update README with usage examples on 2025-09-16 15:47:10 -->
+<!-- Commit 289: test: Improve test coverage on 2025-09-16 13:30:39 -->
