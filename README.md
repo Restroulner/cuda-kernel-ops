@@ -1605,3 +1605,4 @@ This project is licensed under the MIT License.
 <!-- Commit 259: refactor: Extract common logic into helper function on 2025-09-16 15:19:16 -->
 <!-- Commit 261: style: Adhere to linter rules on 2025-09-18 10:43:13 -->
 <!-- Commit 262: fix: Correct off-by-one error in indexing on 2025-09-24 12:26:57 -->
+<!-- Commit 263: docs: Update README with usage examples on 2025-09-24 13:20:32 -->
