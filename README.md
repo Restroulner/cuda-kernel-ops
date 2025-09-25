@@ -1606,3 +1606,4 @@ This project is licensed under the MIT License.
 <!-- Commit 261: style: Adhere to linter rules on 2025-09-18 10:43:13 -->
 <!-- Commit 262: fix: Correct off-by-one error in indexing on 2025-09-24 12:26:57 -->
 <!-- Commit 263: docs: Update README with usage examples on 2025-09-24 13:20:32 -->
+<!-- Commit 264: fix: Prevent potential race condition on 2025-09-25 10:31:22 -->
