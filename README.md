@@ -249,3 +249,4 @@ This project is licensed under the MIT License.
 <!-- Commit 276: refactor: Decouple modules on 2025-09-22 09:27:21 -->
 <!-- Commit 277: docs: Add API documentation on 2025-09-24 10:06:08 -->
 <!-- Commit 278: chore: Upgrade Python version on 2025-09-25 12:56:27 -->
+<!-- Commit 279: refactor: Simplify conditional statements on 2025-09-26 12:39:43 -->
