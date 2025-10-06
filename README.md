@@ -258,3 +258,4 @@ This project is licensed under the MIT License.
 <!-- Commit 287: style: Adhere to linter rules on 2025-10-03 16:57:39 -->
 <!-- Commit 288: chore: Configure CI/CD pipeline on 2025-10-03 12:58:36 -->
 <!-- Commit 289: test: Fix broken tests on 2025-10-06 13:07:57 -->
+<!-- Commit 291: fix: Correct off-by-one error in indexing on 2025-10-06 17:03:35 -->
