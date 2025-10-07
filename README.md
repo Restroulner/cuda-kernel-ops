@@ -1614,3 +1614,4 @@ This project is licensed under the MIT License.
 <!-- Commit 271: feat: Integrate new data source on 2025-10-06 09:28:01 -->
 <!-- Commit 272: feat: Integrate new data source on 2025-10-06 09:18:34 -->
 <!-- Commit 273: refactor: Simplify conditional statements on 2025-10-07 09:10:21 -->
+<!-- Commit 274: docs: Update README with usage examples on 2025-10-07 12:03:13 -->
