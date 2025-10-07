@@ -632,3 +632,4 @@ This project is licensed under the MIT License.
 <!-- Commit 316: refactor: Simplify conditional statements on 2025-10-06 16:13:10 -->
 <!-- Commit 317: perf: Reduce memory footprint on 2025-10-06 16:10:50 -->
 <!-- Commit 318: fix: Handle edge cases in input validation on 2025-10-07 13:26:52 -->
+<!-- Commit 319: refactor: Extract common logic into helper function on 2025-10-07 10:55:43 -->
