@@ -1617,3 +1617,4 @@ This project is licensed under the MIT License.
 <!-- Commit 274: docs: Update README with usage examples on 2025-10-07 12:03:13 -->
 <!-- Commit 276: perf: Parallelize computation on 2025-10-08 15:01:47 -->
 <!-- Commit 277: style: Adhere to linter rules on 2025-10-09 17:28:03 -->
+<!-- Commit 278: docs: Add API documentation on 2025-10-09 13:38:06 -->
