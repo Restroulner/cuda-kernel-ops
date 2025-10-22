@@ -648,3 +648,4 @@ This project is licensed under the MIT License.
 <!-- Commit 336: fix: Correct off-by-one error in indexing on 2025-10-16 12:33:20 -->
 <!-- Commit 337: chore: Update dependencies on 2025-10-17 16:55:00 -->
 <!-- Commit 338: test: Improve test coverage on 2025-10-21 15:27:35 -->
+<!-- Commit 339: fix: Correct off-by-one error in indexing on 2025-10-22 17:17:48 -->
