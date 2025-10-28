@@ -652,3 +652,4 @@ This project is licensed under the MIT License.
 <!-- Commit 341: fix: Handle edge cases in input validation on 2025-10-24 13:14:58 -->
 <!-- Commit 342: fix: Handle edge cases in input validation on 2025-10-27 15:54:25 -->
 <!-- Commit 343: perf: Parallelize computation on 2025-10-28 11:09:07 -->
+<!-- Commit 344: docs: Add API documentation on 2025-10-28 16:50:20 -->
