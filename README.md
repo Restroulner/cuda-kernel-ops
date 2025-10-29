@@ -1628,3 +1628,4 @@ This project is licensed under the MIT License.
 <!-- Commit 288: docs: Clarify installation instructions on 2025-10-27 14:48:47 -->
 <!-- Commit 289: chore: Configure CI/CD pipeline on 2025-10-27 13:01:11 -->
 <!-- Commit 291: refactor: Extract common logic into helper function on 2025-10-29 13:22:33 -->
+<!-- Commit 292: docs: Update README with usage examples on 2025-10-29 16:12:18 -->
