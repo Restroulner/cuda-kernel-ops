@@ -1631,3 +1631,4 @@ This project is licensed under the MIT License.
 <!-- Commit 292: docs: Update README with usage examples on 2025-10-29 16:12:18 -->
 <!-- Commit 293: chore: Automate release process on 2025-10-29 13:57:59 -->
 <!-- Commit 294: test: Add unit tests for new module on 2025-10-30 16:07:42 -->
+<!-- Commit 296: docs: Clarify installation instructions on 2025-11-04 10:27:57 -->
