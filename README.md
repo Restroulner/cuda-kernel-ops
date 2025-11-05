@@ -1633,3 +1633,4 @@ This project is licensed under the MIT License.
 <!-- Commit 294: test: Add unit tests for new module on 2025-10-30 16:07:42 -->
 <!-- Commit 296: docs: Clarify installation instructions on 2025-11-04 10:27:57 -->
 <!-- Commit 297: feat: Integrate new data source on 2025-11-05 14:47:24 -->
+<!-- Commit 298: fix: Correct off-by-one error in indexing on 2025-11-05 11:31:54 -->
