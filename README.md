@@ -980,3 +980,4 @@ This project is licensed under the MIT License.
 <!-- Commit 277: test: Add integration tests on 2025-10-30 13:09:29 -->
 <!-- Commit 278: chore: Upgrade Python version on 2025-11-03 13:05:07 -->
 <!-- Commit 279: test: Improve test coverage on 2025-11-04 10:11:27 -->
+<!-- Commit 281: fix: Resolve bug in model training loop on 2025-11-05 11:55:49 -->
