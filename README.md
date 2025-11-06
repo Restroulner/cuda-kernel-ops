@@ -1637,3 +1637,4 @@ This project is licensed under the MIT License.
 <!-- Commit 299: feat: Add support for new model architecture on 2025-11-05 13:40:26 -->
 <!-- Commit 301: fix: Prevent potential race condition on 2025-11-06 15:01:54 -->
 <!-- Commit 302: test: Add integration tests on 2025-11-06 14:45:48 -->
+<!-- Commit 303: docs: Update README with usage examples on 2025-11-06 11:25:43 -->
