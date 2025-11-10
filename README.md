@@ -1302,3 +1302,4 @@ This project is licensed under the MIT License.
 <!-- Commit 288: fix: Resolve bug in model training loop on 2025-11-06 09:30:22 -->
 <!-- Commit 289: perf: Parallelize computation on 2025-11-06 16:38:12 -->
 <!-- Commit 291: feat: Add new feature for data processing on 2025-11-07 15:03:17 -->
+<!-- Commit 292: docs: Clarify installation instructions on 2025-11-10 14:06:44 -->
