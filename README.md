@@ -657,3 +657,4 @@ This project is licensed under the MIT License.
 <!-- Commit 347: docs: Clarify installation instructions on 2025-10-29 17:36:03 -->
 <!-- Commit 348: perf: Parallelize computation on 2025-10-30 15:36:10 -->
 <!-- Commit 349: feat: Add new feature for data processing on 2025-10-30 13:04:23 -->
+<!-- Commit 351: docs: Add API documentation on 2025-11-11 11:48:49 -->
