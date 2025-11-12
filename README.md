@@ -1643,3 +1643,4 @@ This project is licensed under the MIT License.
 <!-- Commit 307: fix: Resolve bug in model training loop on 2025-11-10 17:10:42 -->
 <!-- Commit 308: feat: Integrate new data source on 2025-11-11 12:29:48 -->
 <!-- Commit 309: test: Add integration tests on 2025-11-11 09:01:48 -->
+<!-- Commit 311: docs: Update README with usage examples on 2025-11-12 13:12:01 -->
