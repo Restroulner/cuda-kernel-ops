@@ -987,3 +987,4 @@ This project is licensed under the MIT License.
 <!-- Commit 286: test: Fix broken tests on 2025-11-13 16:45:33 -->
 <!-- Commit 287: test: Improve test coverage on 2025-11-13 13:13:34 -->
 <!-- Commit 288: test: Fix broken tests on 2025-11-13 13:45:03 -->
+<!-- Commit 289: feat: Add support for new model architecture on 2025-11-14 15:34:56 -->
