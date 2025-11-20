@@ -289,3 +289,4 @@ This project is licensed under the MIT License.
 <!-- Commit 326: chore: Configure CI/CD pipeline on 2025-11-17 14:52:56 -->
 <!-- Commit 327: chore: Configure CI/CD pipeline on 2025-11-19 12:17:52 -->
 <!-- Commit 328: docs: Generate Sphinx documentation on 2025-11-19 16:59:20 -->
+<!-- Commit 329: test: Add integration tests on 2025-11-20 11:08:34 -->
