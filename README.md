@@ -1311,3 +1311,4 @@ This project is licensed under the MIT License.
 <!-- Commit 299: fix: Correct off-by-one error in indexing on 2025-11-17 09:28:14 -->
 <!-- Commit 301: fix: Correct off-by-one error in indexing on 2025-11-18 13:08:52 -->
 <!-- Commit 302: docs: Generate Sphinx documentation on 2025-11-19 11:08:04 -->
+<!-- Commit 303: feat: Add support for new model architecture on 2025-11-20 16:36:22 -->
