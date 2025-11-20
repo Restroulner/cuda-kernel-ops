@@ -991,3 +991,4 @@ This project is licensed under the MIT License.
 <!-- Commit 291: fix: Handle edge cases in input validation on 2025-11-19 11:25:10 -->
 <!-- Commit 292: perf: Parallelize computation on 2025-11-19 12:03:41 -->
 <!-- Commit 293: docs: Add API documentation on 2025-11-20 17:58:09 -->
+<!-- Commit 294: test: Add integration tests on 2025-11-20 16:57:40 -->
