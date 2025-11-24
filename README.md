@@ -669,3 +669,4 @@ This project is licensed under the MIT License.
 <!-- Commit 362: refactor: Improve code readability and structure on 2025-11-18 14:12:25 -->
 <!-- Commit 363: docs: Add API documentation on 2025-11-20 16:15:03 -->
 <!-- Commit 364: chore: Automate release process on 2025-11-20 13:01:57 -->
+<!-- Commit 366: refactor: Simplify conditional statements on 2025-11-24 10:40:58 -->
