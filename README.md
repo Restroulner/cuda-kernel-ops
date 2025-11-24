@@ -1314,3 +1314,4 @@ This project is licensed under the MIT License.
 <!-- Commit 303: feat: Add support for new model architecture on 2025-11-20 16:36:22 -->
 <!-- Commit 304: chore: Configure CI/CD pipeline on 2025-11-21 13:20:04 -->
 <!-- Commit 306: perf: Reduce memory footprint on 2025-11-24 13:29:50 -->
+<!-- Commit 307: refactor: Extract common logic into helper function on 2025-11-24 09:24:12 -->
