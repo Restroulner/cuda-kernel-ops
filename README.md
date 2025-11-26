@@ -294,3 +294,4 @@ This project is licensed under the MIT License.
 <!-- Commit 332: docs: Clarify installation instructions on 2025-11-21 15:48:07 -->
 <!-- Commit 333: fix: Handle edge cases in input validation on 2025-11-21 11:21:32 -->
 <!-- Commit 334: style: Clean up whitespace on 2025-11-24 15:28:22 -->
+<!-- Commit 336: style: Format code according to PEP8 on 2025-11-26 10:11:29 -->
