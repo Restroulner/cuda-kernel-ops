@@ -678,3 +678,4 @@ This project is licensed under the MIT License.
 <!-- Commit 373: refactor: Simplify conditional statements on 2025-11-27 16:46:21 -->
 <!-- Commit 374: perf: Optimize data loading performance on 2025-11-28 11:59:04 -->
 <!-- Commit 376: refactor: Decouple modules on 2025-12-03 15:57:04 -->
+<!-- Commit 377: fix: Correct off-by-one error in indexing on 2025-12-03 15:58:45 -->
