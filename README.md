@@ -999,3 +999,4 @@ This project is licensed under the MIT License.
 <!-- Commit 301: perf: Parallelize computation on 2025-12-02 10:51:03 -->
 <!-- Commit 302: feat: Add support for new model architecture on 2025-12-02 10:48:53 -->
 <!-- Commit 303: refactor: Extract common logic into helper function on 2025-12-03 11:31:13 -->
+<!-- Commit 304: test: Improve test coverage on 2025-12-03 09:29:49 -->
