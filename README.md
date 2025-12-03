@@ -998,3 +998,4 @@ This project is licensed under the MIT License.
 <!-- Commit 299: refactor: Decouple modules on 2025-11-27 12:10:44 -->
 <!-- Commit 301: perf: Parallelize computation on 2025-12-02 10:51:03 -->
 <!-- Commit 302: feat: Add support for new model architecture on 2025-12-02 10:48:53 -->
+<!-- Commit 303: refactor: Extract common logic into helper function on 2025-12-03 11:31:13 -->
