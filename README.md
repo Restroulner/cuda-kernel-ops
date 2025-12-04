@@ -1663,3 +1663,4 @@ This project is licensed under the MIT License.
 <!-- Commit 332: docs: Update README with usage examples on 2025-11-26 14:13:49 -->
 <!-- Commit 333: test: Add integration tests on 2025-12-01 11:02:09 -->
 <!-- Commit 334: refactor: Decouple modules on 2025-12-01 14:44:08 -->
+<!-- Commit 336: docs: Generate Sphinx documentation on 2025-12-04 11:14:29 -->
