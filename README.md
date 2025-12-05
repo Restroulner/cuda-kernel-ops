@@ -1000,3 +1000,4 @@ This project is licensed under the MIT License.
 <!-- Commit 302: feat: Add support for new model architecture on 2025-12-02 10:48:53 -->
 <!-- Commit 303: refactor: Extract common logic into helper function on 2025-12-03 11:31:13 -->
 <!-- Commit 304: test: Improve test coverage on 2025-12-03 09:29:49 -->
+<!-- Commit 306: docs: Update README with usage examples on 2025-12-05 11:28:32 -->
