@@ -685,3 +685,4 @@ This project is licensed under the MIT License.
 <!-- Commit 382: test: Add integration tests on 2025-12-04 10:42:03 -->
 <!-- Commit 383: test: Fix broken tests on 2025-12-08 15:26:22 -->
 <!-- Commit 384: fix: Resolve bug in model training loop on 2025-12-10 13:00:00 -->
+<!-- Commit 386: docs: Update README with usage examples on 2025-12-11 15:21:52 -->
