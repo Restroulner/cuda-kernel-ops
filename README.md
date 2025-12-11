@@ -306,3 +306,4 @@ This project is licensed under the MIT License.
 <!-- Commit 347: test: Add unit tests for new module on 2025-12-08 12:08:05 -->
 <!-- Commit 348: docs: Update README with usage examples on 2025-12-09 09:30:11 -->
 <!-- Commit 349: refactor: Extract common logic into helper function on 2025-12-09 10:05:29 -->
+<!-- Commit 351: refactor: Simplify conditional statements on 2025-12-11 16:11:22 -->
