@@ -307,3 +307,4 @@ This project is licensed under the MIT License.
 <!-- Commit 348: docs: Update README with usage examples on 2025-12-09 09:30:11 -->
 <!-- Commit 349: refactor: Extract common logic into helper function on 2025-12-09 10:05:29 -->
 <!-- Commit 351: refactor: Simplify conditional statements on 2025-12-11 16:11:22 -->
+<!-- Commit 352: refactor: Simplify conditional statements on 2025-12-11 13:56:35 -->
