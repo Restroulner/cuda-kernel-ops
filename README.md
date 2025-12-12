@@ -1003,3 +1003,4 @@ This project is licensed under the MIT License.
 <!-- Commit 306: docs: Update README with usage examples on 2025-12-05 11:28:32 -->
 <!-- Commit 307: refactor: Extract common logic into helper function on 2025-12-08 13:58:24 -->
 <!-- Commit 308: test: Fix broken tests on 2025-12-10 09:05:17 -->
+<!-- Commit 309: chore: Update dependencies on 2025-12-12 15:00:05 -->
