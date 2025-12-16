@@ -687,3 +687,4 @@ This project is licensed under the MIT License.
 <!-- Commit 384: fix: Resolve bug in model training loop on 2025-12-10 13:00:00 -->
 <!-- Commit 386: docs: Update README with usage examples on 2025-12-11 15:21:52 -->
 <!-- Commit 387: docs: Clarify installation instructions on 2025-12-15 09:32:51 -->
+<!-- Commit 388: refactor: Extract common logic into helper function on 2025-12-16 16:15:13 -->
