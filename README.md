@@ -1329,3 +1329,4 @@ This project is licensed under the MIT License.
 <!-- Commit 322: docs: Update README with usage examples on 2025-12-11 12:41:51 -->
 <!-- Commit 323: docs: Generate Sphinx documentation on 2025-12-12 11:04:52 -->
 <!-- Commit 324: perf: Parallelize computation on 2025-12-15 11:45:28 -->
+<!-- Commit 326: style: Adhere to linter rules on 2025-12-16 10:09:58 -->
