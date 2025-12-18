@@ -689,3 +689,4 @@ This project is licensed under the MIT License.
 <!-- Commit 387: docs: Clarify installation instructions on 2025-12-15 09:32:51 -->
 <!-- Commit 388: refactor: Extract common logic into helper function on 2025-12-16 16:15:13 -->
 <!-- Commit 389: fix: Correct off-by-one error in indexing on 2025-12-16 17:09:07 -->
+<!-- Commit 391: docs: Update README with usage examples on 2025-12-18 12:00:09 -->
