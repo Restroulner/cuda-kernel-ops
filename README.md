@@ -1332,3 +1332,4 @@ This project is licensed under the MIT License.
 <!-- Commit 326: style: Adhere to linter rules on 2025-12-16 10:09:58 -->
 <!-- Commit 327: test: Add unit tests for new module on 2025-12-17 15:26:06 -->
 <!-- Commit 328: refactor: Decouple modules on 2025-12-18 16:07:23 -->
+<!-- Commit 329: docs: Update README with usage examples on 2025-12-18 16:15:26 -->
