@@ -1012,3 +1012,4 @@ This project is licensed under the MIT License.
 <!-- Commit 317: perf: Parallelize computation on 2025-12-18 11:09:38 -->
 <!-- Commit 318: test: Add unit tests for new module on 2025-12-19 10:18:09 -->
 <!-- Commit 319: chore: Update dependencies on 2025-12-19 16:57:09 -->
+<!-- Commit 321: docs: Add API documentation on 2025-12-22 13:33:51 -->
