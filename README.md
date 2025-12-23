@@ -1333,3 +1333,4 @@ This project is licensed under the MIT License.
 <!-- Commit 327: test: Add unit tests for new module on 2025-12-17 15:26:06 -->
 <!-- Commit 328: refactor: Decouple modules on 2025-12-18 16:07:23 -->
 <!-- Commit 329: docs: Update README with usage examples on 2025-12-18 16:15:26 -->
+<!-- Commit 331: style: Clean up whitespace on 2025-12-23 12:31:24 -->
