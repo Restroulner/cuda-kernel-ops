@@ -696,3 +696,4 @@ This project is licensed under the MIT License.
 <!-- Commit 396: perf: Parallelize computation on 2025-12-24 15:26:16 -->
 <!-- Commit 397: perf: Optimize data loading performance on 2025-12-26 12:28:53 -->
 <!-- Commit 398: test: Improve test coverage on 2025-12-26 11:34:15 -->
+<!-- Commit 399: docs: Generate Sphinx documentation on 2025-12-26 10:55:58 -->
