@@ -1014,3 +1014,4 @@ This project is licensed under the MIT License.
 <!-- Commit 319: chore: Update dependencies on 2025-12-19 16:57:09 -->
 <!-- Commit 321: docs: Add API documentation on 2025-12-22 13:33:51 -->
 <!-- Commit 322: docs: Clarify installation instructions on 2025-12-22 10:20:02 -->
+<!-- Commit 323: feat: Add support for new model architecture on 2025-12-26 11:27:18 -->
