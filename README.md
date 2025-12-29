@@ -1335,3 +1335,4 @@ This project is licensed under the MIT License.
 <!-- Commit 329: docs: Update README with usage examples on 2025-12-18 16:15:26 -->
 <!-- Commit 331: style: Clean up whitespace on 2025-12-23 12:31:24 -->
 <!-- Commit 332: feat: Implement new evaluation metric on 2025-12-26 13:03:58 -->
+<!-- Commit 333: refactor: Simplify conditional statements on 2025-12-29 11:57:46 -->
