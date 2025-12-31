@@ -1016,3 +1016,4 @@ This project is licensed under the MIT License.
 <!-- Commit 322: docs: Clarify installation instructions on 2025-12-22 10:20:02 -->
 <!-- Commit 323: feat: Add support for new model architecture on 2025-12-26 11:27:18 -->
 <!-- Commit 324: test: Improve test coverage on 2025-12-30 10:12:53 -->
+<!-- Commit 326: feat: Add support for new model architecture on 2025-12-31 14:25:15 -->
