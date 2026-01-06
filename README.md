@@ -1677,3 +1677,4 @@ This project is licensed under the MIT License.
 <!-- Commit 349: test: Fix broken tests on 2025-12-23 16:01:38 -->
 <!-- Commit 351: chore: Automate release process on 2025-12-26 15:59:21 -->
 <!-- Commit 352: fix: Handle edge cases in input validation on 2025-12-30 13:32:58 -->
+<!-- Commit 353: docs: Clarify installation instructions on 2026-01-06 11:49:47 -->
