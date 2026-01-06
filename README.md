@@ -1019,3 +1019,4 @@ This project is licensed under the MIT License.
 <!-- Commit 326: feat: Add support for new model architecture on 2025-12-31 14:25:15 -->
 <!-- Commit 327: style: Clean up whitespace on 2026-01-05 14:27:09 -->
 <!-- Commit 328: docs: Update README with usage examples on 2026-01-06 17:35:33 -->
+<!-- Commit 329: feat: Add support for new model architecture on 2026-01-06 14:50:53 -->
