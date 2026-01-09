@@ -1021,3 +1021,4 @@ This project is licensed under the MIT License.
 <!-- Commit 328: docs: Update README with usage examples on 2026-01-06 17:35:33 -->
 <!-- Commit 329: feat: Add support for new model architecture on 2026-01-06 14:50:53 -->
 <!-- Commit 331: perf: Optimize data loading performance on 2026-01-07 10:17:23 -->
+<!-- Commit 332: docs: Generate Sphinx documentation on 2026-01-09 10:29:36 -->
