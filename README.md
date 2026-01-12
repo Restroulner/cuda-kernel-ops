@@ -330,3 +330,4 @@ This project is licensed under the MIT License.
 <!-- Commit 377: fix: Resolve bug in model training loop on 2025-12-30 14:23:54 -->
 <!-- Commit 378: refactor: Decouple modules on 2026-01-02 13:20:42 -->
 <!-- Commit 379: refactor: Decouple modules on 2026-01-05 12:22:14 -->
+<!-- Commit 381: refactor: Simplify conditional statements on 2026-01-12 10:18:14 -->
