@@ -333,3 +333,4 @@ This project is licensed under the MIT License.
 <!-- Commit 381: refactor: Simplify conditional statements on 2026-01-12 10:18:14 -->
 <!-- Commit 382: docs: Generate Sphinx documentation on 2026-01-12 17:38:57 -->
 <!-- Commit 383: fix: Resolve bug in model training loop on 2026-01-14 14:52:32 -->
+<!-- Commit 384: fix: Prevent potential race condition on 2026-01-14 15:08:33 -->
