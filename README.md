@@ -1681,3 +1681,4 @@ This project is licensed under the MIT License.
 <!-- Commit 354: docs: Update README with usage examples on 2026-01-07 10:58:27 -->
 <!-- Commit 356: test: Add integration tests on 2026-01-14 13:34:26 -->
 <!-- Commit 357: refactor: Decouple modules on 2026-01-14 11:17:45 -->
+<!-- Commit 358: refactor: Extract common logic into helper function on 2026-01-15 13:51:49 -->
