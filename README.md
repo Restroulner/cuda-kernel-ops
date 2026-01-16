@@ -1026,3 +1026,4 @@ This project is licensed under the MIT License.
 <!-- Commit 334: perf: Optimize data loading performance on 2026-01-15 09:26:28 -->
 <!-- Commit 336: chore: Update dependencies on 2026-01-16 17:26:37 -->
 <!-- Commit 337: perf: Reduce memory footprint on 2026-01-16 13:28:25 -->
+<!-- Commit 338: docs: Update README with usage examples on 2026-01-16 17:24:04 -->
