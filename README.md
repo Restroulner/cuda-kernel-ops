@@ -706,3 +706,4 @@ This project is licensed under the MIT License.
 <!-- Commit 408: fix: Resolve bug in model training loop on 2026-01-09 09:24:11 -->
 <!-- Commit 409: chore: Automate release process on 2026-01-15 16:49:22 -->
 <!-- Commit 411: chore: Upgrade Python version on 2026-01-20 12:26:44 -->
+<!-- Commit 412: docs: Clarify installation instructions on 2026-01-20 17:49:14 -->
