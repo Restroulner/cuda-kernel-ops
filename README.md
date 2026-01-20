@@ -1349,3 +1349,4 @@ This project is licensed under the MIT License.
 <!-- Commit 347: test: Add integration tests on 2026-01-15 14:11:26 -->
 <!-- Commit 348: chore: Configure CI/CD pipeline on 2026-01-16 09:05:47 -->
 <!-- Commit 349: chore: Automate release process on 2026-01-19 14:53:08 -->
+<!-- Commit 351: refactor: Extract common logic into helper function on 2026-01-20 10:50:23 -->
