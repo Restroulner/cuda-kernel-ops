@@ -1351,3 +1351,4 @@ This project is licensed under the MIT License.
 <!-- Commit 349: chore: Automate release process on 2026-01-19 14:53:08 -->
 <!-- Commit 351: refactor: Extract common logic into helper function on 2026-01-20 10:50:23 -->
 <!-- Commit 352: test: Add integration tests on 2026-01-21 15:20:43 -->
+<!-- Commit 353: refactor: Simplify conditional statements on 2026-01-21 15:14:42 -->
