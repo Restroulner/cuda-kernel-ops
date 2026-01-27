@@ -1031,3 +1031,4 @@ This project is licensed under the MIT License.
 <!-- Commit 341: chore: Configure CI/CD pipeline on 2026-01-23 15:10:03 -->
 <!-- Commit 342: refactor: Extract common logic into helper function on 2026-01-23 13:51:09 -->
 <!-- Commit 343: perf: Reduce memory footprint on 2026-01-23 15:35:40 -->
+<!-- Commit 344: refactor: Simplify conditional statements on 2026-01-27 10:12:18 -->
