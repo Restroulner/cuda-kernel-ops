@@ -719,3 +719,4 @@ This project is licensed under the MIT License.
 <!-- Commit 424: style: Adhere to linter rules on 2026-02-02 11:48:43 -->
 <!-- Commit 426: chore: Upgrade Python version on 2026-02-04 09:58:20 -->
 <!-- Commit 427: test: Fix broken tests on 2026-02-04 16:29:37 -->
+<!-- Commit 428: fix: Resolve bug in model training loop on 2026-02-04 12:58:44 -->
