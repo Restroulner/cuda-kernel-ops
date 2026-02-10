@@ -1361,3 +1361,4 @@ This project is licensed under the MIT License.
 <!-- Commit 362: test: Fix broken tests on 2026-02-04 10:48:21 -->
 <!-- Commit 363: test: Add integration tests on 2026-02-05 14:38:39 -->
 <!-- Commit 364: style: Adhere to linter rules on 2026-02-06 14:57:18 -->
+<!-- Commit 366: refactor: Simplify conditional statements on 2026-02-10 14:15:47 -->
