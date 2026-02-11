@@ -723,3 +723,4 @@ This project is licensed under the MIT License.
 <!-- Commit 429: chore: Configure CI/CD pipeline on 2026-02-06 12:19:08 -->
 <!-- Commit 431: feat: Add support for new model architecture on 2026-02-10 11:04:13 -->
 <!-- Commit 432: perf: Reduce memory footprint on 2026-02-10 15:31:33 -->
+<!-- Commit 433: refactor: Simplify conditional statements on 2026-02-11 16:08:28 -->
