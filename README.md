@@ -1701,3 +1701,4 @@ This project is licensed under the MIT License.
 <!-- Commit 379: feat: Add support for new model architecture on 2026-02-10 13:45:47 -->
 <!-- Commit 381: style: Format code according to PEP8 on 2026-02-10 11:39:44 -->
 <!-- Commit 382: refactor: Simplify conditional statements on 2026-02-10 17:45:37 -->
+<!-- Commit 383: fix: Resolve bug in model training loop on 2026-02-12 10:54:44 -->
