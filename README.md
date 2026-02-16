@@ -729,3 +729,4 @@ This project is licensed under the MIT License.
 <!-- Commit 437: test: Add unit tests for new module on 2026-02-13 15:52:55 -->
 <!-- Commit 438: style: Clean up whitespace on 2026-02-13 13:51:45 -->
 <!-- Commit 439: refactor: Improve code readability and structure on 2026-02-16 14:53:10 -->
+<!-- Commit 441: refactor: Simplify conditional statements on 2026-02-16 13:49:16 -->
