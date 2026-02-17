@@ -1366,3 +1366,4 @@ This project is licensed under the MIT License.
 <!-- Commit 368: style: Adhere to linter rules on 2026-02-12 17:45:05 -->
 <!-- Commit 369: perf: Parallelize computation on 2026-02-16 10:41:22 -->
 <!-- Commit 371: feat: Add new feature for data processing on 2026-02-16 15:55:02 -->
+<!-- Commit 372: docs: Clarify installation instructions on 2026-02-17 09:18:30 -->
