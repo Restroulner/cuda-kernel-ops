@@ -1368,3 +1368,4 @@ This project is licensed under the MIT License.
 <!-- Commit 371: feat: Add new feature for data processing on 2026-02-16 15:55:02 -->
 <!-- Commit 372: docs: Clarify installation instructions on 2026-02-17 09:18:30 -->
 <!-- Commit 373: style: Adhere to linter rules on 2026-02-17 14:19:28 -->
+<!-- Commit 374: refactor: Improve code readability and structure on 2026-02-18 09:09:43 -->
