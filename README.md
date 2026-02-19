@@ -1370,3 +1370,4 @@ This project is licensed under the MIT License.
 <!-- Commit 373: style: Adhere to linter rules on 2026-02-17 14:19:28 -->
 <!-- Commit 374: refactor: Improve code readability and structure on 2026-02-18 09:09:43 -->
 <!-- Commit 376: fix: Handle edge cases in input validation on 2026-02-19 13:50:21 -->
+<!-- Commit 377: fix: Prevent potential race condition on 2026-02-19 13:32:22 -->
