@@ -1707,3 +1707,4 @@ This project is licensed under the MIT License.
 <!-- Commit 387: refactor: Decouple modules on 2026-02-17 10:27:04 -->
 <!-- Commit 388: perf: Reduce memory footprint on 2026-02-18 13:22:46 -->
 <!-- Commit 389: chore: Configure CI/CD pipeline on 2026-02-20 09:29:05 -->
+<!-- Commit 391: refactor: Improve code readability and structure on 2026-02-20 14:53:53 -->
