@@ -355,3 +355,4 @@ This project is licensed under the MIT License.
 <!-- Commit 408: style: Adhere to linter rules on 2026-02-16 09:57:42 -->
 <!-- Commit 409: style: Adhere to linter rules on 2026-02-17 14:22:46 -->
 <!-- Commit 411: fix: Prevent potential race condition on 2026-02-19 17:33:10 -->
+<!-- Commit 412: fix: Correct off-by-one error in indexing on 2026-02-23 10:06:10 -->
