@@ -1376,3 +1376,4 @@ This project is licensed under the MIT License.
 <!-- Commit 381: docs: Generate Sphinx documentation on 2026-02-25 15:01:00 -->
 <!-- Commit 382: docs: Add API documentation on 2026-02-25 13:44:45 -->
 <!-- Commit 383: feat: Add support for new model architecture on 2026-02-25 15:42:43 -->
+<!-- Commit 384: test: Add unit tests for new module on 2026-02-25 15:16:12 -->
