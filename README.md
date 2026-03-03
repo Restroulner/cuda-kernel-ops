@@ -738,3 +738,4 @@ This project is licensed under the MIT License.
 <!-- Commit 448: refactor: Decouple modules on 2026-02-25 16:50:41 -->
 <!-- Commit 449: refactor: Extract common logic into helper function on 2026-02-27 14:19:15 -->
 <!-- Commit 451: chore: Configure CI/CD pipeline on 2026-03-02 14:13:15 -->
+<!-- Commit 452: docs: Generate Sphinx documentation on 2026-03-03 10:59:02 -->
