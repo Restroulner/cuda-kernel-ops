@@ -1712,3 +1712,4 @@ This project is licensed under the MIT License.
 <!-- Commit 393: test: Add integration tests on 2026-02-23 17:16:10 -->
 <!-- Commit 394: perf: Parallelize computation on 2026-02-24 13:28:40 -->
 <!-- Commit 396: test: Improve test coverage on 2026-03-04 14:16:14 -->
+<!-- Commit 397: docs: Update README with usage examples on 2026-03-04 16:53:16 -->
