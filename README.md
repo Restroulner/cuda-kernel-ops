@@ -741,3 +741,4 @@ This project is licensed under the MIT License.
 <!-- Commit 452: docs: Generate Sphinx documentation on 2026-03-03 10:59:02 -->
 <!-- Commit 453: fix: Handle edge cases in input validation on 2026-03-03 12:44:24 -->
 <!-- Commit 454: style: Adhere to linter rules on 2026-03-04 16:38:48 -->
+<!-- Commit 456: docs: Clarify installation instructions on 2026-03-04 14:15:30 -->
