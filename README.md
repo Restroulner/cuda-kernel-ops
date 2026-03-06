@@ -1715,3 +1715,4 @@ This project is licensed under the MIT License.
 <!-- Commit 397: docs: Update README with usage examples on 2026-03-04 16:53:16 -->
 <!-- Commit 398: perf: Parallelize computation on 2026-03-05 15:55:24 -->
 <!-- Commit 399: test: Improve test coverage on 2026-03-05 16:41:57 -->
+<!-- Commit 401: style: Clean up whitespace on 2026-03-06 13:50:51 -->
