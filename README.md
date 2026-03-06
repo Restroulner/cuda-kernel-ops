@@ -362,3 +362,4 @@ This project is licensed under the MIT License.
 <!-- Commit 417: fix: Prevent potential race condition on 2026-03-03 14:39:11 -->
 <!-- Commit 418: chore: Upgrade Python version on 2026-03-05 09:48:35 -->
 <!-- Commit 419: chore: Automate release process on 2026-03-06 14:53:49 -->
+<!-- Commit 421: fix: Correct off-by-one error in indexing on 2026-03-06 12:35:52 -->
