@@ -1717,3 +1717,4 @@ This project is licensed under the MIT License.
 <!-- Commit 399: test: Improve test coverage on 2026-03-05 16:41:57 -->
 <!-- Commit 401: style: Clean up whitespace on 2026-03-06 13:50:51 -->
 <!-- Commit 402: feat: Integrate new data source on 2026-03-09 10:07:05 -->
+<!-- Commit 403: refactor: Extract common logic into helper function on 2026-03-09 15:57:37 -->
