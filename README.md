@@ -1719,3 +1719,4 @@ This project is licensed under the MIT License.
 <!-- Commit 402: feat: Integrate new data source on 2026-03-09 10:07:05 -->
 <!-- Commit 403: refactor: Extract common logic into helper function on 2026-03-09 15:57:37 -->
 <!-- Commit 404: style: Adhere to linter rules on 2026-03-10 11:14:56 -->
+<!-- Commit 406: docs: Add API documentation on 2026-03-11 17:51:54 -->
