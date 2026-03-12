@@ -746,3 +746,4 @@ This project is licensed under the MIT License.
 <!-- Commit 458: feat: Implement new evaluation metric on 2026-03-05 10:51:13 -->
 <!-- Commit 459: refactor: Extract common logic into helper function on 2026-03-06 16:45:36 -->
 <!-- Commit 461: fix: Handle edge cases in input validation on 2026-03-11 10:49:45 -->
+<!-- Commit 462: fix: Correct off-by-one error in indexing on 2026-03-12 09:42:48 -->
