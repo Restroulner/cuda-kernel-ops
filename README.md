@@ -1386,3 +1386,4 @@ This project is licensed under the MIT License.
 <!-- Commit 393: feat: Integrate new data source on 2026-03-09 13:48:03 -->
 <!-- Commit 394: docs: Add API documentation on 2026-03-10 17:59:26 -->
 <!-- Commit 396: refactor: Decouple modules on 2026-03-13 16:52:17 -->
+<!-- Commit 397: refactor: Improve code readability and structure on 2026-03-16 09:11:09 -->
