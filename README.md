@@ -1723,3 +1723,4 @@ This project is licensed under the MIT License.
 <!-- Commit 407: docs: Add API documentation on 2026-03-11 09:28:19 -->
 <!-- Commit 408: test: Fix broken tests on 2026-03-12 09:31:23 -->
 <!-- Commit 409: fix: Handle edge cases in input validation on 2026-03-12 17:46:29 -->
+<!-- Commit 411: test: Add integration tests on 2026-03-17 15:34:47 -->
