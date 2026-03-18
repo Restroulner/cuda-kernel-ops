@@ -1389,3 +1389,4 @@ This project is licensed under the MIT License.
 <!-- Commit 397: refactor: Improve code readability and structure on 2026-03-16 09:11:09 -->
 <!-- Commit 398: feat: Add support for new model architecture on 2026-03-16 13:29:48 -->
 <!-- Commit 399: chore: Automate release process on 2026-03-16 17:35:36 -->
+<!-- Commit 401: refactor: Simplify conditional statements on 2026-03-18 11:19:16 -->
