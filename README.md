@@ -1725,3 +1725,4 @@ This project is licensed under the MIT License.
 <!-- Commit 409: fix: Handle edge cases in input validation on 2026-03-12 17:46:29 -->
 <!-- Commit 411: test: Add integration tests on 2026-03-17 15:34:47 -->
 <!-- Commit 412: feat: Add support for new model architecture on 2026-03-18 13:33:26 -->
+<!-- Commit 413: refactor: Improve code readability and structure on 2026-03-18 12:33:45 -->
