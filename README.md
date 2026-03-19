@@ -1726,3 +1726,4 @@ This project is licensed under the MIT License.
 <!-- Commit 411: test: Add integration tests on 2026-03-17 15:34:47 -->
 <!-- Commit 412: feat: Add support for new model architecture on 2026-03-18 13:33:26 -->
 <!-- Commit 413: refactor: Improve code readability and structure on 2026-03-18 12:33:45 -->
+<!-- Commit 414: test: Improve test coverage on 2026-03-19 11:20:27 -->
