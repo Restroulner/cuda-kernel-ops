@@ -1392,3 +1392,4 @@ This project is licensed under the MIT License.
 <!-- Commit 401: refactor: Simplify conditional statements on 2026-03-18 11:19:16 -->
 <!-- Commit 402: feat: Integrate new data source on 2026-03-19 13:03:21 -->
 <!-- Commit 403: chore: Upgrade Python version on 2026-03-19 14:31:49 -->
+<!-- Commit 404: docs: Update README with usage examples on 2026-03-19 10:10:01 -->
