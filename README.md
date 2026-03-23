@@ -375,3 +375,4 @@ This project is licensed under the MIT License.
 <!-- Commit 433: fix: Prevent potential race condition on 2026-03-20 16:09:49 -->
 <!-- Commit 434: docs: Clarify installation instructions on 2026-03-20 11:55:03 -->
 <!-- Commit 436: refactor: Improve code readability and structure on 2026-03-23 10:07:38 -->
+<!-- Commit 437: refactor: Improve code readability and structure on 2026-03-23 12:28:21 -->
