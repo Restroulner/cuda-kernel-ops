@@ -1729,3 +1729,4 @@ This project is licensed under the MIT License.
 <!-- Commit 414: test: Improve test coverage on 2026-03-19 11:20:27 -->
 <!-- Commit 416: test: Add integration tests on 2026-03-20 15:04:13 -->
 <!-- Commit 417: feat: Integrate new data source on 2026-03-23 11:17:42 -->
+<!-- Commit 418: feat: Add support for new model architecture on 2026-03-24 15:39:03 -->
