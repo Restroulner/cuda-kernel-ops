@@ -754,3 +754,4 @@ This project is licensed under the MIT License.
 <!-- Commit 468: perf: Optimize data loading performance on 2026-03-18 13:18:01 -->
 <!-- Commit 469: feat: Add new feature for data processing on 2026-03-23 12:15:48 -->
 <!-- Commit 471: test: Fix broken tests on 2026-03-24 15:12:00 -->
+<!-- Commit 472: refactor: Extract common logic into helper function on 2026-03-25 16:59:04 -->
