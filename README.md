@@ -1066,3 +1066,4 @@ This project is licensed under the MIT License.
 <!-- Commit 384: style: Format code according to PEP8 on 2026-03-19 09:23:08 -->
 <!-- Commit 386: docs: Update README with usage examples on 2026-03-20 10:30:04 -->
 <!-- Commit 387: perf: Optimize data loading performance on 2026-03-20 13:59:01 -->
+<!-- Commit 388: test: Fix broken tests on 2026-03-25 16:21:21 -->
